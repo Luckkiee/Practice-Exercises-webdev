@@ -1,0 +1,29 @@
+div {
+    font-weight: bold;
+}
+.container {
+    border: solid 1px  rgb(200, 200, 200);
+    border-radius: 10px;
+    max-width: 200px;
+}
+
+.flex-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 200px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.notifications {
+    background-color: rgb(49, 109, 245);
+    color: white;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+}
